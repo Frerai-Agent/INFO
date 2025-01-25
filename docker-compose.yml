@@ -1,0 +1,11 @@
+version: '3'
+services:
+  lollms-webui:
+    build: .
+    ports:
+      - "9600:9600"
+    volumes:
+      - ./lollms-webui:/app/lollms-webui
+    environment:
+      - PYTHONUNBUFFERED=1
+    command: python app.py
