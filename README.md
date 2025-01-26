@@ -27,7 +27,7 @@ ___
 Install the core package:
 
 pip install agent_lens_core
-![Download](https://github.com/Frerai-Agent/INFO/blob/main/agent_frerai_core-0.1.1.tar.gz)
+[Download](https://github.com/Frerai-Agent/INFO/blob/main/agent_frerai_core-0.1.1.tar.gz)
 
 + (Optional) Install Playwright for browser automation:
 
