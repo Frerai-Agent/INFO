@@ -4,8 +4,8 @@
 </div>
 
 [![GitHub license](https://img.shields.io/github/license/ParisNeo/lollms-webui)](https://github.com/Frerai-Agent/INFO/blob/main/LICENSE)
-[![Follow me on X](https://img.shields.io/twitter/follow/agentFrerai?style=social)](https://x.com/agentFrerai)
-[![Website](https://img.shields.io/badge/-Website-aa00ff?style=for-the-badge)](https://frerai.com/)
+[![Follow us on X](https://img.shields.io/twitter/follow/agentFrerai?style=social)](https://x.com/agentFrerai)
+[![Visit our website](https://img.shields.io/badge/Visit-Website-blue?style=social)](https://frerai.com)
 
 ___
 ### About
