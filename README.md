@@ -5,7 +5,8 @@
 
 [![GitHub license](https://img.shields.io/github/license/ParisNeo/lollms-webui)](https://github.com/Frerai-Agent/INFO/blob/main/LICENSE)
 [![Follow us on X](https://img.shields.io/twitter/follow/agentFrerai?style=social)](https://x.com/agentFrerai)
-[![Visit our website](https://img.shields.io/badge/Visit-Website-blue?style=social)](https://frerai.com)
+[![Website](https://img.shields.io/badge/Website-blue?style=social)](https://frerai.com)
+
 
 ___
 ### About
