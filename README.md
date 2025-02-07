@@ -21,6 +21,7 @@ Customizable Settings: Easily adapt to different tasks by specifying goals and m
 
 ### DEMO
 Prompt: Find flights on kayak.com from Zurich to Beijing from 25.12.2024 to 02.02.2025.
+
 <br>![Demo](https://github.com/Frerai-Agent/INFO/blob/main/images/demo.gif)
 
 ___
